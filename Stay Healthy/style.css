@@ -1,0 +1,678 @@
+.container {
+    margin: 0px 165px;
+}
+
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+.Header {
+    background-color: #161D2F;
+}
+
+.header-line {
+    display: flex;
+    justify-content: center;
+    padding: 12px 165px;
+}
+
+.header-logo {
+    padding: 8px 15px;
+    margin-right: 165px;
+}
+
+.logo-text {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.nav {
+    padding: 15.5px 0px;
+}
+
+.nav-item {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 14px;
+    margin-right: 40px;
+}
+
+.nav-item span {
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.header-line-button {
+    margin-left: 125px;
+    padding: 11.5px 15px;
+}
+
+.button {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+    background: linear-gradient(to right, #3043A9, #1F629F);
+    padding: 15px 30px;
+    border-radius: 28px;
+}
+
+
+.Heading {
+    margin-top: 55px;
+    display: block;
+    text-align: center;
+}
+
+.welcome-message-1 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.welcome-message-2 {
+    padding-top: 10px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 93px;
+}
+
+.welcome-message-3 {
+    padding-top: 20px;
+    color: #fff;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.buttons-block {
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 30px;
+}
+
+.contact-us-button {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 18px;
+    padding: 15px 30px;
+    border: 1px solid #FFFFFF;
+    border-radius: 28px;
+    margin-left: 20px;
+}
+
+.header-image {
+    position: relative;
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+
+.image-1 {
+    width: 1110px;
+    height: 600px;
+    
+    border-radius: 10px;
+}
+
+.image-2 {
+    position: absolute;
+    top: 257px;
+    left: 743px;
+}
+
+.image-3 {
+    position: absolute;
+    top: 280px;
+    left: 770px;
+}
+
+
+
+.Programs {
+    margin-top: 100px;
+}
+
+.programs-title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.programs-title-text {
+    padding-bottom: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.programs-title-description {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+
+.card-image-1,
+.card-image-2 {
+    border-radius: 10px;
+    box-shadow: #00000026;
+    width: 350px;
+    height: 240px;
+    margin-right: 30px;
+}
+
+.card-image-3 {
+    border-radius: 10px;
+    box-shadow: #00000026;
+    width: 350px;
+    height: 240px;
+}
+
+.card-title{
+    padding-top: 20px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+}
+
+.card-author{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+.card-desc{
+    padding-top: 10px;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+.check-program{
+    padding-top: 20px;
+    padding-right: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #3043A9;
+}
+
+.check-out {
+   display: flex;
+}
+
+.blue-arrow{
+    width: 20px;
+    height: 20px;
+    padding-top: 20px;
+}
+
+.black-left-arrow,
+.black-right-arrow {
+    width: 45px;
+    height: 45px;
+    padding-top: 200px;
+}
+
+.black-left-arrow {
+    padding-right: 30px;
+}
+
+.black-right-arrow {
+    padding-left: 30px;
+}
+
+
+
+.Nutritions {
+    margin: 100px 0px;
+}
+
+.nutritions-holder{
+    display: flex;
+    
+}
+
+.nutritions-title {
+    padding-top: 28px;
+    padding-left: 900px;
+}
+
+.nutr-title {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.nutr-subtitle {
+    padding-top: 10px;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.nutr-desc {
+    padding-top: 10px;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.nutr-desc span {
+    color:#161D2F;
+}
+
+.nutr-button {
+    padding-top: 30px;
+}
+
+.nutritions-images {
+    position: relative;
+}
+
+.nutrs-img-1 {
+    border-radius: 10px;
+    position: absolute;
+    z-index: 0;
+    top: -45px;
+    left: 335px;
+}
+
+.nutrs-img-2 {
+    border-radius: 10px;
+    position: absolute;
+    z-index: 999;
+    top: 165px;
+    left: 235px;
+}
+
+.nutrs-img-3 {
+    position: absolute;
+    z-index: 999;
+    top: -60px;
+    left: 209px;
+}
+
+.nutrs-img-4 {
+    position: absolute;
+    z-index: 999;
+    top: 363px;
+    left: 608px;
+}
+
+
+
+.Choose-package {
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+.package-top {
+    padding-top: 100px;
+    height: 520px;
+    background: linear-gradient(to right, #09203F, #161D2F);
+}
+
+.package-heading {
+    display: block;
+    text-align: center;
+}
+
+.pack-head-title {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #fff;
+}
+
+.pack-head-subtitle {
+    padding-top: 10px;
+    padding-bottom: 30px;    
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 60px;
+    color: #fff;
+}
+
+.package-cards {
+    margin-top: -340px;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin-right: 30px;
+    margin-bottom: 100px;
+    text-align: center;
+    width: 350px;
+    height: 682px;
+    background-color: #fff;
+    border-radius: 35px;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 16px 35px 0px #7090B033;
+}
+
+.pack-card-title {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 45px;
+}
+
+.pack-card-author {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.pack-card-list {
+    margin-top: -10px;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+}
+
+ul {
+    list-style-type: none;
+    text-align: left;
+    display: inline-block;
+}
+
+ul li {
+    margin: 10px 0;
+    padding-left: 10px;
+}
+
+ul li::marker {
+	content: url(checked.png);
+}
+
+.pack-card-price-1,
+.pack-card-price-2,
+.pack-card-price-3 {
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 48px;
+}
+
+.pack-card-price-1 span,
+.pack-card-price-2 span,
+.pack-card-price-3 span {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.pack-card-price-1 {
+    padding-top: 91px;
+}
+
+.pack-card-price-2 {
+    padding-top: 50px;
+    
+}
+
+.pack-card-price-3 {
+    padding-top: 8px;
+}
+
+.pack-card-button {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+}
+
+.pack-card-button button {
+    padding: 15px 20px;
+}
+
+
+
+.Ab-Us-header {
+    padding-top: 100px;
+    
+    text-align: center;
+}
+
+.Ab-Us-title {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+.Ab-Us-subtitle {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 60px;
+}
+
+.left-quotation-mark {
+    padding-right: 40px;
+}
+
+.right-quotation-mark {
+    padding-left: 40px;
+}
+
+.statistics {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.stat-block {
+    text-align: center;
+}
+
+.divider {
+    width: 1px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.stat-block-num {
+    font-family: "Inter", sans-serif;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 64px;
+}
+
+.stat-block-label {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.opportunities {
+    padding-top: 50px;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.opportunity-block {
+    text-align: left;
+    display: flex;
+    margin: 30px 30px;
+    margin-top: 0px;
+}
+
+.opp-block-textholder {
+    padding-left: 30px;
+}
+
+.opp-block-title {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 42px;
+}
+
+.opp-block-text {
+    padding-top: 5px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+
+
+.Become-a-member {
+    display: flex;
+    justify-content: center;
+}
+
+.membership {
+    margin: 70px 0;
+    background-color: #161D2F;
+    width: 1110px;
+    height: 406px;
+    border-radius: 20px;
+}
+
+.membership-block {
+    padding-top: 106px;
+    padding-left: 50px;
+}
+
+.membership-title {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 54px;
+}
+
+.membership-buttons-block {
+    display: flex;
+    justify-content: left;
+    padding-top: 30px;
+    margin-left: -20px;
+}
+
+.email-address-button {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+    text-align: left;
+    color: #fff;
+    padding: 17px 0;
+    padding-left: 24px;
+    padding-right: 146px;
+    border: 1px solid #FFFFFF;
+    border-radius: 28px;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+
+.membership-images {
+    position: absolute;
+    top: 4900px;
+    left: 1020px;
+    margin-left: 152px;
+    display: block;
+    align-items: center;
+    justify-content: right;
+}
+
+.membership-img-block {
+    margin-top: -18px;
+}
+
+.membership-img {
+    width: 138px;
+    height: 138px;
+    border-radius: 8px;
+}
+
+.memb-img {
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+
+
+.footer-holder {
+    padding-top: 48px;
+    display: flex;
+    justify-content: center;
+}
+
+.sh-title {
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    text-align: left;
+}
+
+.sh-text {
+    padding-top: 5px;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: left;
+}
+
+.footer-images {
+    padding-top: 10px;
+}
+
+.link-img {
+    padding-right: 10px;
+}
+
+.product-title {
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: left;
+}
+
+.product-text {
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: left;
+}
+
+.rights {
+    padding-top: 54px;
+    padding-bottom: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+}
+
+.stay-healthy-info {
+    padding-right: 60px;
+}
+
+.product-info {
+    padding-right: 96px;
+}
+
+.explore-info {
+    padding-right: 100px;
+}
+
